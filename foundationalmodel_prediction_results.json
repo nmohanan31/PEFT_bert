@@ -1,0 +1,512 @@
+{
+    "model_evaluation": {
+        "eval_loss": 2.017066717147827,
+        "eval_model_preparation_time": 0.0073,
+        "eval_accuracy": 0.1336322869955157,
+        "eval_runtime": 574.0042,
+        "eval_samples_per_second": 1.942,
+        "eval_steps_per_second": 0.486
+    },
+    "predictions": [
+        {
+            "sms": "Please dont say like that. Hi hi hi\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Thanx...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Aiyo u so poor thing... Then u dun wan 2 eat? U bathe already?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I don't know u and u don't know me. Send CHAT to 86688 now and let's find each other! Only 150p/Msg rcvd. HG/Suite342/2Lands/Row/W1J6HL LDN. 18 years or over.\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Hmmm.still we dont have opener?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Sending you greetings of joy and happiness. Do have a gr8 evening\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Just finished. Missing you plenty\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Sorry, I'll call later\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Ok...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Hi, Mobile no.  &lt;#&gt;  has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Sorry, I'll call later\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Yay! You better not have told that to 5 other girls either.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Then anything special?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Ah, well that confuses things, doesn\u2018t it?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Missing you too.pray inshah allah\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Yeah hopefully, if tyler can't do it I could maybe ask around a bit\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Gr8 new service - live sex video chat on your mob - see the sexiest dirtiest girls live on ur phone - 4 details text horny to 89070 to cancel send STOP to 89070\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Well at this right I'm gonna have to get up and check today's steam sales/pee so text me when you want me to come get you\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Ok thanx... Take care then...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Until 545 lor... Ya, can go 4 dinner together...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Actually i deleted my old website..now i m blogging at magicalsongs.blogspot.com\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Meanwhile in the shit suite: xavier decided to give us  &lt;#&gt;  seconds of warning that samantha was coming over and is playing jay's guitar to impress her or some shit. Also I don't think doug realizes I don't live here anymore\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Whatsup there. Dont u want to sleep\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "How was txting and driving\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "My uncles in Atlanta. Wish you guys a great semester.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "The Xmas story is peace.. The Xmas msg is love.. The Xmas miracle is jesus.. Hav a blessed month ahead &amp; wish U Merry Xmas...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Are you being good, baby? :)\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "&lt;#&gt;  is fast approaching. So, Wish u a very Happy New Year Happy Sankranti Happy republic day Happy Valentines Day Happy Shivratri Happy Ugadi Happy Fools day Happy May Day Happy Independence Day, Happy Friendship,Mother,Father,Teachers,Childrens Day, &amp; HAPPY BIRTHDAY 4 U. Happy Ganesh festival Happy Dasara Happy Diwali Happy Christmas  &lt;#&gt;  Good Mornings Afternoons, Evenings Nights. RememberI AM the first to WISHING U ALL THESE...your's Raj\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Its a great day. Do have yourself a beautiful one.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I calls you later. Afternoon onwords mtnl service get problem in south mumbai. I can hear you but you cann't listen me.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "\"Hello-/@drivby-:0quit edrunk sorry iff pthis makes no senrd-dnot no how ^ dancce 2 drum n basq!ihave fun 2nhite x ros xxxxxxx\"\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "We left already we at orchard now.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Congrats! 2 mobile 3G Videophones R yours. call 09063458130 now! videochat wid your mates, play java games, Dload polyPH music, noline rentl.\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Weightloss! No more girl friends. Make loads of money on ebay or something. And give thanks to God.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Sorry da..today i wont come to play..i have driving clas..\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Ard 4 lor...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "But i juz remembered i gotta bathe my dog today..\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Dude just saw a parked car with its sunroof popped up. Sux\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "You call him now ok i said call him\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Honeybee Said: *I'm d Sweetest in d World* God Laughed &amp; Said: *Wait,U Havnt Met d Person Reading This Msg* MORAL: Even GOD Can Crack Jokes! GM+GN+GE+GN:)\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Still in customer place\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "We are okay. Going to sleep now. Later\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "That's cool he'll be here all night, lemme know when you're around\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "No. Its not specialisation. Can work but its slave labor. Will look for it this month sha cos no shakara 4 beggar.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I've not called you in a while. This is hoping it was l8r malaria and that you know that we miss you guys. I miss Bani big, so pls give her my love especially. Have a great day.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Is xy going 4 e lunch?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "\"SHIT BABE.. THASA BIT MESSED UP.YEH, SHE SHUDVETOLD U. DID URGRAN KNOW?NEWAY, ILLSPEAK 2 U2MORO WEN IM NOT ASLEEP...\"\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Well, I was about to give up cos they all said no they didn\u2018t do one nighters. I persevered and found one but it is very cheap so i apologise in advance. It is just somewhere to sleep isnt it?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Same as kallis dismissial in 2nd test:-).\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "What part of \"don't initiate\" don't you understand\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I'm reading the text i just sent you. Its meant to be a joke. So read it in that light\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Sounds like something that someone testing me would sayy\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Btw regarding that we should really try to see if anyone else can be our 4th guy before we commit to a random dude\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "You are now unsubscribed all services. Get tons of sexy babes or hunks straight to your phone! go to http://gotbabes.co.uk. No subscriptions.\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Be happy there. I will come after noon\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Hmmm.. Thk sure got time to hop ard... Ya, can go 4 free abt... Muz call u to discuss liao... \n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Ok how you dear. Did you call chechi\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Si si. I think ill go make those oreo truffles.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Dear Hero,i am leaving to qatar tonite for an apt opportunity.pls do keep in touch at  &lt;EMAIL&gt; ,kerala\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "K actually can you guys meet me at the sunoco on howard? It should be right on the way\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Send this to ur friends and receive something about ur voice..... How is my speaking expression? 1.childish 2.naughty 3.Sentiment 4.rowdy 5.ful of attitude 6.romantic 7.shy 8.Attractive 9.funny  &lt;#&gt; .irritating  &lt;#&gt; .lovable. reply me..\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "For sale - arsenal dartboard. Good condition but no doubles or trebles!\n",
+            "label": 1,
+            "prediction": 0
+        },
+        {
+            "sms": "URGENT We are trying to contact you Last weekends draw shows u have won a \u00a31000 prize GUARANTEED Call 09064017295 Claim code K52 Valid 12hrs 150p pm\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Have you finished work yet? :)\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Why you Dint come with us.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "When did dad get back.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Not planned yet :)going to join company on jan 5 only.don know what will happen after that.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "You aren't coming home between class, right? I need to work out and shower!\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Can come my room but cannot come my house cos my house still messy... Haha...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "wamma get laid?want real doggin locations sent direct to your mobile? join the UKs largest dogging network. txt dogs to 69696 now!nyt. ec2a. 3lp \u00a31.50/msg.\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Hi. Hope you had a good day. Have a better night.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Yun buying... But school got offer 2000 plus only...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "U WILL SWITCH YOUR FONE ON DAMMIT!!\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I did. One slice and one breadstick. Lol\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Neva mind it's ok..\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Yup\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Hi dis is yijue i would be happy to work wif \u00fc all for gek1510...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "HI BABE IM AT HOME NOW WANNA DO SOMETHING? XX\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Den only weekdays got special price... Haiz... Cant eat liao... Cut nails oso muz wait until i finish drivin wat, lunch still muz eat wat... \n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Bloody hell, cant believe you forgot my surname Mr . Ill give u a clue, its spanish and begins with m... \n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "SplashMobile: Choose from 1000s of gr8 tones each wk! This is a subscrition service with weekly tones costing 300p. U have one credit - kick back and ENJOY\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Ok...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I'm done...\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Sure thing big man. i have hockey elections at 6, shouldn\u2018t go on longer than an hour though\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Beauty sleep can help ur pimples too.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Can you call me plz. Your number shows out of coveragd area. I have urgnt call in vasai &amp; have to reach before 4'o clock so call me plz\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Orange customer, you may now claim your FREE CAMERA PHONE upgrade for your loyalty. Call now on 0207 153 9996. Offer ends 14thMarch. T&C's apply. Opt-out availa\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "HIYA COMIN 2 BRISTOL 1 ST WEEK IN APRIL. LES GOT OFF + RUDI ON NEW YRS EVE BUT I WAS SNORING.THEY WERE DRUNK! U BAK AT COLLEGE YET? MY WORK SENDS INK 2 BATH.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "I'm going 4 lunch now wif my family then aft dat i go str 2 orchard lor.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Lol that's different. I don't go trying to find every real life photo you ever took.\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Yes:)here tv is always available in work place..\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Wat r u doing?\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Cramps stopped. Going back to sleep\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Cool, want me to go to kappa or should I meet you outside mu\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Free Msg: Ringtone!From: http://tms. widelive.com/index. wml?id=1b6a5ecef91ff9*37819&first=true18:0430-JUL-05\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Yo do you know anyone  &lt;#&gt;  or otherwise able to buy liquor? Our guy flaked and right now if we don't get a hold of somebody its just 4 loko all night\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Open rebtel with firefox. When it loads just put plus sign in the user name place, and it will show you two numbers. The lower number is my number. Once you pick that number the pin will display okay!\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "645\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "They released vday shirts and when u put it on it makes your bottom half naked instead of those white underwear.\n",
+            "label": 0,
+            "prediction": 1
+        }
+    ]
+}

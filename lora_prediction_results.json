@@ -1,0 +1,112 @@
+{
+    "model_evaluation": {
+        "eval_loss": 0.10456153005361557,
+        "eval_accuracy": 0.9811659192825112,
+        "eval_runtime": 29.0099,
+        "eval_samples_per_second": 38.435,
+        "eval_steps_per_second": 9.617,
+        "epoch": 3.0
+    },
+    "predictions": [
+        {
+            "sms": "Please dont say like that. Hi hi hi\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Thanx...\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Aiyo u so poor thing... Then u dun wan 2 eat? U bathe already?\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "I don't know u and u don't know me. Send CHAT to 86688 now and let's find each other! Only 150p/Msg rcvd. HG/Suite342/2Lands/Row/W1J6HL LDN. 18 years or over.\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Hmmm.still we dont have opener?\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Sending you greetings of joy and happiness. Do have a gr8 evening\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Just finished. Missing you plenty\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Sorry, I'll call later\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Ok...\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Hi, Mobile no.  &lt;#&gt;  has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com\n",
+            "label": 0,
+            "prediction": 1
+        },
+        {
+            "sms": "Sorry, I'll call later\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Yay! You better not have told that to 5 other girls either.\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Then anything special?\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Ah, well that confuses things, doesn\u2018t it?\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Missing you too.pray inshah allah\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Yeah hopefully, if tyler can't do it I could maybe ask around a bit\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Gr8 new service - live sex video chat on your mob - see the sexiest dirtiest girls live on ur phone - 4 details text horny to 89070 to cancel send STOP to 89070\n",
+            "label": 1,
+            "prediction": 1
+        },
+        {
+            "sms": "Well at this right I'm gonna have to get up and check today's steam sales/pee so text me when you want me to come get you\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Ok thanx... Take care then...\n",
+            "label": 0,
+            "prediction": 0
+        },
+        {
+            "sms": "Until 545 lor... Ya, can go 4 dinner together...\n",
+            "label": 0,
+            "prediction": 0
+        }
+    ]
+}
